@@ -1,4 +1,4 @@
-﻿Source Subset,Target Subset(s),Count,Perclaion2B-entage
+﻿Source Subset,Target Subset,Count,Percentage
 laion2B-en,laion2B-multi,81028579,3.49%
 laion2B-en,laion1B-nolang,94827022,4.08%
 laion2B-en,laion2B-multi+laion1B-nolang,4260484,0.18%
