@@ -51,3 +51,7 @@ A investigation by [Knowing Machines](https://knowingmachines.org/) and [Der SPI
 
 - [`laion5B-robots.txt.csv`](laion5B-robots.txt.csv)
 - [`laion5B-duplicates.csv`](laion5B-duplicates.csv)
+
+## A note on licensing
+
+The Engelberg Center and Knowing Machines do not claim any rights in the data assets included in this repo.  Therefore, the CC0 license attached to the repo only applies to the extent that there are new rights in this specific compilation, and to the text of this readme. 
